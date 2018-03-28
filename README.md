@@ -1,4 +1,4 @@
-# Dropbox API V2
+# ruby-dropbox-api
 
 Installation
 ------------
