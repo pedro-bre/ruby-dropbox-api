@@ -21,7 +21,7 @@ web_auth.authorize_url #=> "https://www.dropbox.com/..."
 # Now you need to open the authorization URL in your browser,
 # authorize the application, copy your code and exchange it for the access token.
 
-access_token = authenticator.get_token(CODE) #=> FZiHb5TP...
+access_token = web_auth.get_token(CODE) #=> FZiHb5TP...
 ```
 
 ### Performing API calls
