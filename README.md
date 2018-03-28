@@ -1,4 +1,4 @@
-# Dropbox SDK
+# Dropbox API V2
 
 Installation
 ------------
