@@ -4,7 +4,7 @@ Installation
 ------------
 
 ```
-gem "shopify_api", git: 'https://github.com/pedro-bre/ruby-dropbox-api.git'
+gem "dropbox_api", git: 'https://github.com/pedro-bre/ruby-dropbox-api.git'
 ```
 
 Getting started
